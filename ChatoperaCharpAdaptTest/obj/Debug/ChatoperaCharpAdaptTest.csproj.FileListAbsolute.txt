@@ -1,0 +1,15 @@
+E:\workspace\CSharpProj\ChatoperaCharpAdapt\ChatoperaCharpAdaptTest\bin\Debug\ChatoperaCharpAdaptTest.exe.config
+E:\workspace\CSharpProj\ChatoperaCharpAdapt\ChatoperaCharpAdaptTest\bin\Debug\ChatoperaCharpAdaptTest.exe
+E:\workspace\CSharpProj\ChatoperaCharpAdapt\ChatoperaCharpAdaptTest\bin\Debug\ChatoperaCharpAdaptTest.pdb
+E:\workspace\CSharpProj\ChatoperaCharpAdapt\ChatoperaCharpAdaptTest\bin\Debug\ChatoperaCharpAdapt.dll
+E:\workspace\CSharpProj\ChatoperaCharpAdapt\ChatoperaCharpAdaptTest\bin\Debug\Newtonsoft.Json.dll
+E:\workspace\CSharpProj\ChatoperaCharpAdapt\ChatoperaCharpAdaptTest\bin\Debug\ChatoperaCharpAdapt.pdb
+E:\workspace\CSharpProj\ChatoperaCharpAdapt\ChatoperaCharpAdaptTest\bin\Debug\Newtonsoft.Json.xml
+E:\workspace\CSharpProj\ChatoperaCharpAdapt\ChatoperaCharpAdaptTest\obj\Debug\ChatoperaCharpAdaptTest.csproj.AssemblyReference.cache
+E:\workspace\CSharpProj\ChatoperaCharpAdapt\ChatoperaCharpAdaptTest\obj\Debug\ChatoperaCharpAdaptTest.ChatoperaCharpAdaptTest.resources
+E:\workspace\CSharpProj\ChatoperaCharpAdapt\ChatoperaCharpAdaptTest\obj\Debug\ChatoperaCharpAdaptTest.Properties.Resources.resources
+E:\workspace\CSharpProj\ChatoperaCharpAdapt\ChatoperaCharpAdaptTest\obj\Debug\ChatoperaCharpAdaptTest.csproj.GenerateResource.cache
+E:\workspace\CSharpProj\ChatoperaCharpAdapt\ChatoperaCharpAdaptTest\obj\Debug\ChatoperaCharpAdaptTest.csproj.CoreCompileInputs.cache
+E:\workspace\CSharpProj\ChatoperaCharpAdapt\ChatoperaCharpAdaptTest\obj\Debug\ChatoperaCharpAdaptTest.csproj.CopyComplete
+E:\workspace\CSharpProj\ChatoperaCharpAdapt\ChatoperaCharpAdaptTest\obj\Debug\ChatoperaCharpAdaptTest.exe
+E:\workspace\CSharpProj\ChatoperaCharpAdapt\ChatoperaCharpAdaptTest\obj\Debug\ChatoperaCharpAdaptTest.pdb
